@@ -14,7 +14,7 @@
     font-size: 15px;
  }
 
- .kartinka2 {
+ .image2 {
     position: absolute;
     right: 10px;
  }
@@ -24,7 +24,7 @@
     height: 320px;
  }
 
- .kartinka3 {
+ .image3 {
     position: absolute;
     left: 10px;
     top: 140px;
@@ -67,7 +67,7 @@
     color: rgb(95, 26, 26);
  }
 
- .kart {
+ .img {
     max-width: 20px;
     max-height: 20px;
     right: 70px;
@@ -106,7 +106,7 @@
     height: 80px;
  }
 
- .kartinka1 {
+ .image1 {
     background: fixed;
  }
 
